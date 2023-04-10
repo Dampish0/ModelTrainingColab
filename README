@@ -14,7 +14,7 @@ You can change dataset here
 Data is the actual training data
 valid_data is the validation data
 u change model here
-![IMG2](image2.png)
+![IMG2](https://github.com/Dampish0/ModelTrainingColab/blob/main/image1.png?raw=true)
 u choose anything on huggingface.co
 and replace eleutherai/gpt-neo-2.7B
 make sure to not pick something too heavy
