@@ -2,9 +2,11 @@ License:
 cc-by-nc-4.0, Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 https://creativecommons.org/licenses/by-nc/4.0/
 
-
 HELLO, HERE IS THE CODE FOR TRAINING ON COLAB.
 https://colab.research.google.com/drive/18J71X7pgU7H3ZpctvthZkGj1dJ70BnXI?usp=sharing
+
+Here is training data, 2 DATASET DONT GET THEM CONFUSED!!
+https://huggingface.co/datasets/Dampish/QuickTrain/tree/main
 
 If you use my code, give credit.
 
