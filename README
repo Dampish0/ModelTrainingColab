@@ -10,17 +10,13 @@ If you use my code, give credit.
 
 So ill make it short
 You can change dataset here
-<img src="image1.png" alt="Alt Text" width="256" height="256">
-Data is the actual training data
-valid_data is the validation data
-u change model here
-
-
 
 ![image1](image1.png)
 
-
-
+Data is the actual training data
+valid_data is the validation data
+u change model here
+![image1](image2.png)
 
 
 u choose anything on huggingface.co
@@ -31,6 +27,7 @@ because the free compute is only 15gb vram
 2.7b neo is not runnable on free tier
 here u change training parameters
 ![IMG3](image3.png)
+
 the only parameters u need to worry about are gradient_accumulation_steps
 and learning rate
 epoch is basically for how long you want to train it
