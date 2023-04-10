@@ -10,7 +10,7 @@ If you use my code, give credit.
 
 So ill make it short
 You can change dataset here
-![IMG1](image1.png)
+<img src="image1.png" alt="Alt Text" width="256" height="256">
 Data is the actual training data
 valid_data is the validation data
 u change model here
