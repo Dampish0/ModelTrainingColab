@@ -4,7 +4,7 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 For training on local gpus: https://github.com/Dampish0/ModelTrainingLocal
 
-HELLO, HERE IS THE CODE FOR TRAINING ON COLAB.
+HELLO, HERE IS THE CODE FOR TRAINING ON COLAB, ANY MODEL WORKS AS LONG AS IT RUNS ON PYTORCH.
 https://colab.research.google.com/drive/18J71X7pgU7H3ZpctvthZkGj1dJ70BnXI?usp=sharing
 
 Here is training data, 2 DATASET DONT GET THEM CONFUSED!!
